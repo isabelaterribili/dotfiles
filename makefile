@@ -1,6 +1,5 @@
 setup:
-	mv .bashrc ~/
-	mv .gitconfig ~/
-	mv Programer.terminal ~/
-	mv .vimrc ~/
+	cp .bashrc ~/
+	cp .gitconfig ~/
+	cp .vimrc ~/
 
