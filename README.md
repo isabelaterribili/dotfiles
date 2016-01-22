@@ -1,5 +1,5 @@
-This is my dotfiles :)
-
+#This is my dotfiles :)
+------
 First of all, install [Homebrew](http://brew.sh/)
 
 Install [libgit2](https://github.com/libgit2/libgit2), using Homebrew:
@@ -15,3 +15,5 @@ Open your terminal, go to preferences > profiles > import, and select Programmer
 `source .bashrc`
 
 And be happy with your beatifull terminal :)
+
+Do not forget to put your credentials in `.gitconfig`!
