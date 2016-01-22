@@ -5,7 +5,7 @@ First of all, install [Homebrew](http://brew.sh/)
 Install [libgit2](https://github.com/libgit2/libgit2), using Homebrew:
 `brew install libgit2`
 
-Now, download the last binary from [fholiveira's smartprompt](https://github.com/fholiveira/smartprompt/releases)
+Now, download the last binary from [fholiveira's smartprompt](https://github.com/fholiveira/smartprompt/releases) or simple get it from my dotfiles.
 
 Paste smartprompt binary under a path mapped in your $PATH, in my case, I have created a dir at: `~/.bin`, and add that dir in `/etc/paths`
 
